@@ -15,3 +15,4 @@ cpi = ["no-entrypoint"]
 
 [dependencies]
 anchor-lang = { path = "../../../../../lang" }
+serde = "1.0.196"
